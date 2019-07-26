@@ -1,0 +1,1 @@
+Scrapes the main page of HackerNews and returns an array of objects using Puppeteer and Cheerio
